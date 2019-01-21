@@ -1,0 +1,4 @@
+*.ndy
+experiments/
+*.ipynb
+*.py.swp
